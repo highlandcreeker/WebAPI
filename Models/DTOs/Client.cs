@@ -5,7 +5,7 @@ using System.Web;
 
 namespace FBPortal.API.Models.DTOs
 {
-    public class Clients
+    public class Client
     {
     }
 }
